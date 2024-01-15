@@ -1,10 +1,14 @@
-# Hotel App
-
-Sometimes the rest api service mocky.io is not responding. Change loading type from local to network and vice versa in "lib/repositories/hotel_repo.dart" (lines 11-12).
+# Hotel Finder
+Примечания:
+1. Некоторые ссылки на изображения битые либо недоступны по иной причине.
+   Не указано как поступить в данном случае, был сделан виджет который загружает текст ошибки и иконку перечеркнутой картинки.
+   
 
 ## video
-https://github.com/Elf80lvl/hotel_app/assets/49438937/8f12e55c-4f64-4c60-ad11-482f6bf6048e
 
-## video (youtube shorts)
-https://www.youtube.com/shorts/3QTt5vuZWZc
+https://github.com/Elf80lvl/hotel_finder/assets/49438937/d10335a5-81d4-468c-94f3-66f287d022db
+
+
+
+
 
